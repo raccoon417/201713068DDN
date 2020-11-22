@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DANDAN</string>
+
+    <!-- MainActivity -->
+    <string name="action_study">WORD BOOK</string>
+    <string name="action_test">TEST</string>
+    <string name="action_register">WORD LIST</string>
+    <string name="error_limit_4_word">최소 4개의 단어가 필요합니다.</string>
+    <string name="error_limit_1_word">최소 1개의 단어가 필요합니다.</string>
+
+    <!-- VocaListActivity -->
+    <string name="title_voca_list">단어 리스트</string>
+
+    <!-- TestActivity -->
+    <string name="msg_correct">맞았습니다.</string>
+    <string name="msg_wrong">틀렸습니다.</string>
+
+    <!-- StudyActivity -->
+
+    <!-- EditVocaActivity -->
+    <string name="title_english">단어</string>
+    <string name="title_mean">뜻</string>
+    <string name="title_only_korean">뜻</string>
+    <string name="title_only_english">단어</string>
+    <string name="title_both">모두</string>
+
+    <string name="action_confirm">확인</string>
+    <string name="action_delete">삭제</string>
+    <string name="action_search">검색</string>
+
+    <string name="msg_first_question">첫 단어 입니다.</string>
+    <string name="msg_last_question">마지막 단어 입니다.</string>
+    
+    <string name="msg_test_again_wrong_voca">틀린 단어를 다시 테스트 하시겠습니까?</string>
+    <string name="action_yes">예</string>
+    <string name="action_no">아니오</string>
+    <string name="msg_all_solved">모두 정답입니다.</string>
+
+    <string name="action_add_voca">단어 추가</string>
+    <string name="action_edit_voca">단어 편집</string>
+
+    <string name="err_voca_add_or_edit_fail">최소 4개의 단어가 필요합니다.</string>
+
+</resources>
